@@ -1,0 +1,16 @@
+//
+//  Change_Prefix.pch
+//  Test
+//
+//  Created by imac on 2017/8/8.
+//  Copyright © 2017年 Guowu. All rights reserved.
+//  
+
+#ifndef Change_Prefix_pch
+#define Change_Prefix_pch
+
+
+#define debugMethod() NSLog(@"%s", __func__)
+
+
+#endif /* Change_Prefix_pch */
